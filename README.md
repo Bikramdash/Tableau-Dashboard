@@ -1,4 +1,6 @@
 #About Project Description
+
+
 Imported and cleaned employee data in Excel, containing attributes such as name, gender, education level, job role, age, and salary.
 
 Created dynamic visualizations including bar charts, pie charts, and trend lines to illustrate employee count by gender, average salary by job title, and education distribution.
